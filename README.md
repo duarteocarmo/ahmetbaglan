@@ -17,6 +17,8 @@
 - Machine Learning
 - Economy / Finance
 
-- Read [my blog.](https://verikafasi.org/)
+### Find:  
+- More [about me.](https://http://ahmetbaglan.com/) 
+- [My projects](https://http://ahmetbaglan.com/projects) 
+- [My blog.](https://verikafasi.org/)
 - Connect with me [on LinkedIn.](https://www.linkedin.com/in/ahmet-baglan/)
-- Or learn a bit more [about me.](https://http://ahmetbaglan.com/) 
