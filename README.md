@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/ahmet-baglan/">
-  <img align="left" alt="Ahmet's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ahmet's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/darshanjain01">
   <img align="left" alt="Ahmet's Blog" width="22px" src="https://raw.githubusercontent.com/ahmetbaglan/ahmetbaglan/main/images/verikafasi_icon.png" />
@@ -16,3 +16,7 @@
 - Programming
 - Machine Learning
 - Economy / Finance
+
+- Read [my blog.](https://verikafasi.org/)
+- Connect with me [on LinkedIn.](https://www.linkedin.com/in/ahmet-baglan/)
+- Or learn a bit more [about me.](https://http://ahmetbaglan.com/) 
