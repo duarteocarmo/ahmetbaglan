@@ -20,5 +20,5 @@
 ### Find:  
 - More [about me.](https:ahmetbaglan.com/) 
 - [My projects](https://ahmetbaglan.com/projects) 
-- [My blog.](https://ahmetbaglan.com/projects)
+- [My blog.](https://ahmetbaglan.com/blog_page)
 - Connect with me [on LinkedIn.](https://www.linkedin.com/in/ahmet-baglan/)
