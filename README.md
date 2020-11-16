@@ -18,7 +18,7 @@
 - Economy / Finance
 
 ### Find:  
-- More [about me.](https://http://ahmetbaglan.com/) 
-- [My projects](https://http://ahmetbaglan.com/projects) 
-- [My blog.](https://verikafasi.org/)
+- More [about me.](https:ahmetbaglan.com/) 
+- [My projects](https://ahmetbaglan.com/projects) 
+- [My blog.](https://ahmetbaglan.com/projects)
 - Connect with me [on LinkedIn.](https://www.linkedin.com/in/ahmet-baglan/)
